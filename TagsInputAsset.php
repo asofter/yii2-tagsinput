@@ -16,7 +16,7 @@ use Yii;
  */
 class TagsInputAsset extends \yii\web\AssetBundle
 {
-	public $sourcePath = '@vendor/yiidoc/yii2-tagsinput/assets';
+	public $sourcePath = '@vendor/asofter/yii2-tagsinput/assets';
     public $depends = ['yii\web\JqueryAsset'];
 
     public function init()
