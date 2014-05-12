@@ -1,14 +1,18 @@
 {
-    "name": "yiidoc/yii2-tagsinput",
+    "name": "asofter/yii2-tagsinput",
     "description": "The Gii extension for the Yii framework",
     "keywords": ["yii", "gii", "code generator"],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "support": {
-        "issues": "https://github.com/yiidoc/yii2-tagsinput/issues",
-        "source": "https://github.com/yiidoc/yii2-tagsinput"
+        "issues": "https://github.com/asofter/yii2-tagsinput/issues",
+        "source": "https://github.com/asofter/yii2-tagsinput"
     },
     "authors": [
+        {
+            "name": "Alexander Yaremchuk",
+            "email": "alwex10@gmail.com"
+        },
         {
             "name": "Nghia Nguyen",
             "email": "yiidevelop@gmail.com",
